@@ -1,0 +1,2 @@
+# linkedListRepo
+learn linkedlist
